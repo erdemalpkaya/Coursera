@@ -11,7 +11,7 @@ This repository includes the Coursera course project progress. You can see each 
 
 1. [Introduction to Data science ](https://github.com/erdemalpkaya/Introduction-to-Data-science-Python/tree/1f1e779908993219e68bac56739a0279bc94c997) [![Progress](https://img.shields.io/badge/Done-✔-green.svg?style=flat)]()
 
-2. [Applied Machine Learning ](https://github.com/erdemalpkaya/Introduction-to-Data-science-Python/tree/1f1e779908993219e68bac56739a0279bc94c997) [![Passed](https://img.shields.io/badge/In_Progress-50%25-red.svg?style=flat)]()
+2. [Applied Machine Learning ](https://github.com/erdemalpkaya/Coursera/tree/master/Applied%20Machine%20Learning) [![Passed](https://img.shields.io/badge/In_Progress-50%25-red.svg?style=flat)]()
 
 3. [Structuring Machine Learning Projects ](https://github.com/erdemalpkaya/Introduction-to-Data-science-Python/tree/1f1e779908993219e68bac56739a0279bc94c997) [![Passed](https://img.shields.io/badge/Not_Started-0%25-blue.svg?style=flat)]()
 
