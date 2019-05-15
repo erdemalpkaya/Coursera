@@ -105,3 +105,10 @@ venv.bak/
 
 *.csv
 
+.DS_Store
+
+*.txt
+*.png
+
+adspy_temp.dot
+Practise_Notebook.ipynb
